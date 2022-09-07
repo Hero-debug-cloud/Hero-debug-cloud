@@ -1,4 +1,4 @@
-### Hello, I am Vinay Chandola 👋
+### <h1 align="center">Hello, I am Vinay Chandola 👋</h1>
 
 <!--
 **Hero-debug-cloud/Hero-debug-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
