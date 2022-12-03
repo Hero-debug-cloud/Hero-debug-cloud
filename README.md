@@ -35,13 +35,4 @@ Here are some ideas to get you started:
 
 
 
-name: Mildly interesting facts
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.habits.facts.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_habits: yes
-  plugin_habits_facts: yes
-  plugin_habits_charts: no
-  config_timezone: Europe/Par
+
