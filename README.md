@@ -1,5 +1,5 @@
-### <h1 align="center">Hello, I am Vinay Chandola 👋</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+### <h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I+am+Vinay+Chandola+👋)](https://git.io/typing-svg)</h1>
+
 <!--
 **Hero-debug-cloud/Hero-debug-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
