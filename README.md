@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 --- 
 ### :fire: My Stats :
-
+<div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hero-debug-cloud&show_icons=true&locale=en" alt="VinayChandola" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hero-debug-cloud&" alt="VinayChandola" /></p>
@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hero-debug-cloud&show_icons=true&locale=en&layout=compact" alt="VinayChandola" /></p>
 
 <img alt="Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Hero-debug-cloud&bg_color=1F222E&color=c64ebf&line=0dbdb2&point=FFFFFF&hide_border=true" />
+</div>
+
 
 
 
