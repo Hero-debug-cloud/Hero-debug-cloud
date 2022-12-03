@@ -29,3 +29,19 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hero-debug-cloud&show_icons=true&locale=en&layout=compact" alt="VinayChandola" /></p>
 
 <img alt="Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Hero-debug-cloud&bg_color=1F222E&color=c64ebf&line=0dbdb2&point=FFFFFF&hide_border=true" />
+
+
+
+
+
+
+name: Mildly interesting facts
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.habits.facts.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_habits: yes
+  plugin_habits_facts: yes
+  plugin_habits_charts: no
+  config_timezone: Europe/Par
