@@ -1,5 +1,5 @@
 ### <h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I+am+Vinay+Chandola+👋)](https://git.io/typing-svg)</h1>
-
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinay-chandola-8b731a19a) 
