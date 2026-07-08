@@ -54,15 +54,15 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Hero-debug-cloud&show_icons=true&theme=radical&hide_border=true" alt="Vinay's GitHub Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=Hero-debug-cloud&show_icons=true&theme=radical&hide_border=true" alt="Vinay's GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hero-debug-cloud&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hero-debug-cloud&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hero-debug-cloud&theme=radical&hide_border=true" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=Hero-debug-cloud&theme=radical&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -73,9 +73,9 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hero-debug-cloud&theme=radical&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=Hero-debug-cloud&theme=radical&no-frame=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Hero-debug-cloud&icon=0&color=0" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Hero-debug-cloud&label=Profile+Views&color=38B2AC&style=flat" alt="Visitor Count" />
 </p>
