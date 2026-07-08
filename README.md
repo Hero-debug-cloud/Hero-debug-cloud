@@ -1,23 +1,81 @@
-### <h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I+am+Vinay+Chandola+👋)](https://git.io/typing-svg)</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+# Hi there, I'm Vinay Chandola 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinay-chandola-8b731a19a) 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;MERN+Stack+Specialist;Open+Source+Contributor&font=Fira+Code&center=true&width=440&height=45&color=38B2AC" alt="Typing SVG" />
+  </a>
+</div>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
+<p align="center">
+  A passionate <strong>Full Stack Developer</strong> from India, dedicated to building high-performance web applications, scalable backend architectures, and intuitive developer tools. I love solving complex technical problems and creating seamless user experiences.
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=Hero-debug-cloud&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hero-debug-cloud&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hero-debug-cloud&theme=radical&hide_border=false)<br/>
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hero-debug-cloud&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <a href="https://linkedin.com/in/vinay-chandola-8b731a19a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hero-debug-cloud&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ⚡ About Me
+
+- 🚀 Currently working on optimizing developer experiences with **[No Code BaaS](https://github.com/Hero-debug-cloud/No_Code)**.
+- 📦 Developing a real-time logistics and food delivery platform: **[Delivery App](https://github.com/Hero-debug-cloud/Delivery_app)**.
+- 📚 Continuous learner focusing on **System Design, Go (Golang), and Rust**.
+- 💡 Passionate about writing clean, maintainable, and well-tested code.
+- ♟️ Fun fact: When I'm not coding, I'm probably playing chess or analyzing game strategies.
+
+---
+
+### 💻 Technologies & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,mongodb,tailwind,bootstrap,c,cpp,heroku,netlify,git,github,vscode,postman&perline=10" alt="My Tech Stack" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Featured Projects
+
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **No Code BaaS** | A Backend-as-a-Service platform that simplifies database management and API construction. | `Node.js`, `Express`, `MongoDB`, `React` | [View Repo](https://github.com/Hero-debug-cloud/No_Code) |
+| **Delivery App** | Real-time ordering, dispatch, tracking, and delivery platform. | `Node.js`, `Express`, `React`, `Redux` | [View Repo](https://github.com/Hero-debug-cloud/Delivery_app) |
+| **DSA Tracker** | Data structures and algorithms progress tracking and implementations. | `C++`, `C`, `DSA` | [View Repo](https://github.com/Hero-debug-cloud/dsa-tracker) |
+
+---
+
+### 📊 GitHub Activity & Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Hero-debug-cloud&show_icons=true&theme=radical&hide_border=true" alt="Vinay's GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hero-debug-cloud&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hero-debug-cloud&theme=radical&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hero-debug-cloud&theme=radical&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Hero-debug-cloud&icon=0&color=0" alt="Visitor Count" />
+</p>
