@@ -22,7 +22,6 @@
 
 - 🤖 Building **[PropelDesk](https://github.com/Hero-debug-cloud/propeldesk)**, a customer support SaaS automated by stateful LangGraph AI agents.
 - 📦 Developing **[Delivery App](https://github.com/Hero-debug-cloud/Delivery_app)**, an enterprise-grade last-mile logistics & delivery platform.
-- 🚀 Optimizing developer experiences with **[No Code BaaS](https://github.com/Hero-debug-cloud/No_Code)**.
 - 📚 Continuous learner focusing on **System Design, Go (Golang), and Rust**.
 - 💡 Passionate about writing clean, maintainable, and well-tested code.
 - ♟️ Fun fact: When I'm not coding, I'm probably playing chess or analyzing game strategies.
@@ -52,8 +51,7 @@
 - 📱 **client-app** - Unified Flutter mobile app with dedicated customer and delivery partner workflows.
 - ⚡ **server** - High-throughput Bun + Hono API backend running over Postgres/PostGIS.
 
-#### ⚙️ Developer Tools & Utilities
-- 🔌 **[No_Code](https://github.com/Hero-debug-cloud/No_Code)** - Backend-as-a-Service platform simplifying database orchestration and API generation.
+#### ⚙️ Algorithms & Trackers
 - 📚 **[dsa-tracker](https://github.com/Hero-debug-cloud/dsa-tracker)** - Progress tracking and implementations for Data Structures & Algorithms in C++.
 
 ---
