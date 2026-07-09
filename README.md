@@ -11,6 +11,9 @@
 </p>
 
 <p align="center">
+  <a href="https://www.vinaychandola.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-38B2AC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://linkedin.com/in/vinay-chandola-8b731a19a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -20,6 +23,7 @@
 
 ### ⚡ About Me
 
+- 🌐 Personal Website: **[vinaychandola.com](https://www.vinaychandola.com)**
 - 🤖 Building **[PropelDesk](https://github.com/Hero-debug-cloud/propeldesk)**, a customer support SaaS automated by stateful LangGraph AI agents.
 - 📦 Developing **[Delivery App](https://github.com/Hero-debug-cloud/Delivery_app)**, an enterprise-grade last-mile logistics & delivery platform.
 - 📚 Continuous learner focusing on **System Design, Go (Golang), and Rust**.
