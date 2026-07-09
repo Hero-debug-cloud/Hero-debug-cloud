@@ -24,11 +24,9 @@
 ### ⚡ About Me
 
 - 🌐 Personal Website: **[vinaychandola.com](https://www.vinaychandola.com)**
-- 🤖 Building **[PropelDesk](https://github.com/Hero-debug-cloud/propeldesk)**, a customer support SaaS automated by stateful LangGraph AI agents.
-- 📦 Developing **[Delivery App](https://github.com/Hero-debug-cloud/Delivery_app)**, an enterprise-grade last-mile logistics & delivery platform.
-- 🛒 Scaling **[ZenithCart](https://github.com/Hero-debug-cloud/zenithcart)**, a high-throughput headless e-commerce engine using Go microservices and gRPC.
+- 🚀 Passionate about building high-performance web applications, scalable backend/microservice architectures, and autonomous agent systems.
 - 📚 Continuous learner focusing on **System Design, Go (Golang), and Rust**.
-- 💡 Passionate about writing clean, maintainable, and well-tested code.
+- 💡 Dedicated to writing clean, maintainable, and well-tested code.
 - ♟️ Fun fact: When I'm not coding, I'm probably playing chess or analyzing game strategies.
 
 ---
