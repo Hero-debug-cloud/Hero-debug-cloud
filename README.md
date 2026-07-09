@@ -26,6 +26,7 @@
 - 🌐 Personal Website: **[vinaychandola.com](https://www.vinaychandola.com)**
 - 🤖 Building **[PropelDesk](https://github.com/Hero-debug-cloud/propeldesk)**, a customer support SaaS automated by stateful LangGraph AI agents.
 - 📦 Developing **[Delivery App](https://github.com/Hero-debug-cloud/Delivery_app)**, an enterprise-grade last-mile logistics & delivery platform.
+- 🛒 Scaling **[ZenithCart](https://github.com/Hero-debug-cloud/zenithcart)**, a high-throughput headless e-commerce engine using Go microservices and gRPC.
 - 📚 Continuous learner focusing on **System Design, Go (Golang), and Rust**.
 - 💡 Passionate about writing clean, maintainable, and well-tested code.
 - ♟️ Fun fact: When I'm not coding, I'm probably playing chess or analyzing game strategies.
@@ -36,7 +37,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,bun,mongodb,postgres,redis,prisma,tailwind,bootstrap,flutter,dart,c,cpp,git,github,vscode,postman&perline=12" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,go,react,nextjs,redux,nodejs,express,bun,postgres,mongodb,redis,prisma,rabbitmq,tailwind,bootstrap,flutter,dart,c,cpp,git,github,vscode,postman&perline=13" alt="My Tech Stack" />
   </a>
 </p>
 
@@ -55,8 +56,11 @@
 - 📱 **client-app** - Unified Flutter mobile app with dedicated customer and delivery partner workflows.
 - ⚡ **server** - High-throughput Bun + Hono API backend running over Postgres/PostGIS.
 
-#### ⚙️ Algorithms & Trackers
-- 📚 **[dsa-tracker](https://github.com/Hero-debug-cloud/dsa-tracker)** - Progress tracking and implementations for Data Structures & Algorithms in C++.
+#### 🛒 ZenithCart E-Commerce
+- 🛍️ **[zenithcart](https://github.com/Hero-debug-cloud/zenithcart)** - High-throughput, headless e-commerce backend built to handle extreme traffic spikes.
+- ⚡ **Go Microservices** - Decoupled gRPC architecture enforcing distributed locks (Redlock) in Redis.
+- 📥 **RabbitMQ buffering** - Worker pools consuming accepted orders in batches for Postgres persistence.
+- 💻 **Storefront App** - Next.js 15 storefront and operator performance control dashboard.
 
 ---
 
