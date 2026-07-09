@@ -20,8 +20,9 @@
 
 ### ⚡ About Me
 
-- 🚀 Currently working on optimizing developer experiences with **[No Code BaaS](https://github.com/Hero-debug-cloud/No_Code)**.
-- 📦 Developing a real-time logistics and food delivery platform: **[Delivery App](https://github.com/Hero-debug-cloud/Delivery_app)**.
+- 🤖 Building **[PropelDesk](https://github.com/Hero-debug-cloud/propeldesk)**, a customer support SaaS automated by stateful LangGraph AI agents.
+- 📦 Developing **[Delivery App](https://github.com/Hero-debug-cloud/Delivery_app)**, an enterprise-grade last-mile logistics & delivery platform.
+- 🚀 Optimizing developer experiences with **[No Code BaaS](https://github.com/Hero-debug-cloud/No_Code)**.
 - 📚 Continuous learner focusing on **System Design, Go (Golang), and Rust**.
 - 💡 Passionate about writing clean, maintainable, and well-tested code.
 - ♟️ Fun fact: When I'm not coding, I'm probably playing chess or analyzing game strategies.
@@ -32,19 +33,28 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,mongodb,tailwind,bootstrap,c,cpp,heroku,netlify,git,github,vscode,postman&perline=10" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,bun,mongodb,postgres,redis,prisma,tailwind,bootstrap,flutter,dart,c,cpp,git,github,vscode,postman&perline=12" alt="My Tech Stack" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Featured Projects
+### 🛠️ Current Projects
 
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **No Code BaaS** | A Backend-as-a-Service platform that simplifies database management and API construction. | `Node.js`, `Express`, `MongoDB`, `React` | [View Repo](https://github.com/Hero-debug-cloud/No_Code) |
-| **Delivery App** | Real-time ordering, dispatch, tracking, and delivery platform. | `Node.js`, `Express`, `React`, `Redux` | [View Repo](https://github.com/Hero-debug-cloud/Delivery_app) |
-| **DSA Tracker** | Data structures and algorithms progress tracking and implementations. | `C++`, `C`, `DSA` | [View Repo](https://github.com/Hero-debug-cloud/dsa-tracker) |
+#### 📞 PropelDesk AI Support
+- 🤖 **[propeldesk](https://github.com/Hero-debug-cloud/propeldesk)** - Multi-tenant customer support ticket automation system.
+- 🧠 **LangGraph JS** - State machine routing for autonomous agent resolution & human escalation.
+- 🔍 **pgvector Search** - Context-aware document matching and semantic retrieval using PostgreSQL.
+
+#### 🚚 LogiRoute Delivery Logistics
+- 📦 **[Delivery_app](https://github.com/Hero-debug-cloud/Delivery_app)** - Last-mile delivery monorepo coordinating dispatchers, drivers, and customers.
+- 💻 **client-admin** - Next.js 15, Tailwind CSS v4, and shadcn/ui dashboard for live fleet routing.
+- 📱 **client-app** - Unified Flutter mobile app with dedicated customer and delivery partner workflows.
+- ⚡ **server** - High-throughput Bun + Hono API backend running over Postgres/PostGIS.
+
+#### ⚙️ Developer Tools & Utilities
+- 🔌 **[No_Code](https://github.com/Hero-debug-cloud/No_Code)** - Backend-as-a-Service platform simplifying database orchestration and API generation.
+- 📚 **[dsa-tracker](https://github.com/Hero-debug-cloud/dsa-tracker)** - Progress tracking and implementations for Data Structures & Algorithms in C++.
 
 ---
 
