@@ -60,6 +60,12 @@
 - 📥 **RabbitMQ buffering** - Worker pools consuming accepted orders in batches for Postgres persistence.
 - 💻 **Storefront App** - Next.js 15 storefront and operator performance control dashboard.
 
+#### 🤖 GameBot AI Platform
+- 🎮 **[game-bot-ai](https://github.com/Hero-debug-cloud/game-bot-ai)** - Real-time multi-tenant platform for card/board games featuring pluggable AI bot engines.
+- ⚡ **Express & Socket.io** - Multi-tenant logical isolation, room state replication, and distributed locking.
+- 🧠 **BullMQ Workers** - Background task processing offloading heuristics calculations and pathfinding.
+- 💻 **Admin Dashboard** - Next.js App Router, Tailwind CSS, Zustand, and Chart.js telemetry panel.
+
 ---
 
 ### 📊 GitHub Activity & Analytics
