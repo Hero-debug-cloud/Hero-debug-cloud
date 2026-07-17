@@ -66,6 +66,12 @@
 - 🧠 **BullMQ Workers** - Background task processing offloading heuristics calculations and pathfinding.
 - 💻 **Admin Dashboard** - Next.js App Router, Tailwind CSS, Zustand, and Chart.js telemetry panel.
 
+#### 🏎️ GameKart 3D Battle Arena
+- 🎮 **[GameKart](https://github.com/Hero-debug-cloud/GameKart)** - Real-time multiplayer 3D kart battle arena built from scratch.
+- ⚡ **Three.js & Cannon-es** - Custom physics engine simulation with stable arcade rotation constraints, jump ramps, and wheel rolling animations.
+- 🛠️ **Bun & Hono Backend** - Lightweight, high-throughput WebSocket synchronization server syncing up to 12 karts in real time.
+- 💻 **Interactive Sandbox** - Rich 3D track layout with sloped jump ramps, elevated landing platforms, and live developer overlays.
+
 ---
 
 ### 📊 GitHub Activity & Analytics
